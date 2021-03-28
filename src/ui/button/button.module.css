@@ -1,0 +1,17 @@
+.button{
+    min-height: 42px;
+    line-height: 42px;
+    padding: 0 20px;
+    background-color: #333;
+    cursor: pointer;
+    color:white;
+    font-weight: 300;
+    font-size: 20px;
+    text-transform: uppercase;
+    border: 0;
+    border-radius: 4px;
+    outline: none;
+}
+.button:active{
+    background-color: darkred;
+}
